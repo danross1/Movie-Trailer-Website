@@ -23,7 +23,7 @@ prisoner = media.Movie("Harry Potter and the Prisoner of Azkaban",
                        "https://www.youtube.com/watch?v=lAxgztbYDbs")
 
 room = media.Movie("The Room",
-                   "Johnny is a successful banker who lives happily in a San Francisco townhouse with his fiancée, Lisa. One day, inexplicably, she gets bored with him and decides to seduce his best friend, Mark. From there, nothing will be the same again",
+                   "Johnny is a successful banker who lives happily in a San Francisco townhouse with his fiance, Lisa. One day, inexplicably, she gets bored with him and decides to seduce his best friend, Mark. From there, nothing will be the same again",
                    "https://upload.wikimedia.org/wikipedia/en/e/e1/TheRoomMovie.jpg",
                    "https://www.youtube.com/watch?v=tfMTHIwTUXA")
 
